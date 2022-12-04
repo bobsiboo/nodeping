@@ -1,0 +1,6 @@
+## Interface: 100002
+## Title: nodeping
+## Author: Bobbels
+## Notes: pings when your map finds a node
+## Version: 1.0.0
+main.lua

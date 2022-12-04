@@ -1,0 +1,4 @@
+## Title: nodeping
+## Version: 1.0.0
+## - Author: This addon was partialy created wiht GPT3 and addapted to work by Bobbels
+## - Notes: this addon makes a sound when a mining or herbalism node was found on your minimap
